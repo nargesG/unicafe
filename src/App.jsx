@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import Button from "./components/Button";
-import Statistics from "./components/Sttistics";
+import Statistics from "./components/Statistics";
 
 const App = () => {
   const [good, setGood] = useState(0);
